@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Chetan Singh Bisht
 
-<!--
-**imchetanbisht/imchetanbisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently I'm a MCA Student at Amity University, Noida
+🎓 I done my BCA at GGSIPU University, Delhi
+📱 Android Developer (Java | Kotlin | Firebase | Flutter)  
+🚀 Passionate about building real-world mobile apps  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- QuickBite – Food Ordering App
+- Weather App – Real-time Weather Updates
+- Wallpaper App – Pexels API Integration
+- BillSense – Expense Management App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java, Kotlin
+- Android Studio
+- Firebase
+- REST APIs
+- XML UI Design
+- Flutter
+
+## 📫 Contact
+Email: chetanbsiht1311@gmail.com
+Phone No.- +91 9990012812
