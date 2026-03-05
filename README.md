@@ -10,6 +10,7 @@
 - Weather App – Real-time Weather Updates
 - Wallpaper App – Pexels API Integration
 - BillSense – Expense Management App
+- PayVault - Secure Digital wallet and Locker App
 
 ## 🛠️ Skills
 - Java, Kotlin
@@ -18,6 +19,7 @@
 - REST APIs
 - XML UI Design
 - Flutter
+- Dart
 
 ## 📫 Contact
 Email: chetanbsiht1311@gmail.com
