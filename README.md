@@ -2,7 +2,7 @@
 
 🎓 Currently I'm a MCA Student at Amity University, Noida
 🎓 I done my BCA at GGSIPU University, Delhi
-📱 Android Developer (Java | Kotlin | Firebase | Flutter)  
+📱 Android Developer (Java | Kotlin | Firebase | Flutter | Dart)  
 🚀 Passionate about building real-world mobile apps  
 
 ## 🔥 Projects
