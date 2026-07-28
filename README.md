@@ -6,6 +6,7 @@
 🚀 Passionate about building real-world mobile apps  
 
 ## 🔥 Projects
+- Luxe Store - E-commerce App
 - QuickBite – Food Ordering App
 - Weather App – Real-time Weather Updates
 - Wallpaper App – Pexels API Integration
@@ -13,7 +14,7 @@
 - PayVault - Secure Digital wallet and Locker App
 
 ## 🛠️ Skills
-- Java, Kotlin
+- Java
 - Android Studio
 - Firebase
 - REST APIs
