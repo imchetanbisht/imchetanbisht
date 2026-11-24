@@ -6,6 +6,7 @@
 🚀 Passionate about building real-world mobile apps  
 
 ## 🔥 Projects
+- Flappy Penguin - Android game (Publish on Google PlayStore)
 - Luxe Store - E-commerce App
 - QuickBite – Food Ordering App
 - Weather App – Real-time Weather Updates
